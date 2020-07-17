@@ -2,5 +2,5 @@
 layout: slide 
 title: "Welcome to our second slide!" 
 --- 
-I`m cool 
+[x]I`m cool 
 Just code it! 
